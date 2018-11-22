@@ -1,0 +1,47 @@
+
+.ok {
+	border-radius: 5px;
+}
+
+#check {
+	width: 30px;
+}
+#check_no {
+	width: 30px;
+}
+#change_name {
+	display: block;
+	margin: auto;
+}
+#ok {
+    display: block;
+    margin: auto;
+}
+
+footer {
+	position: absolute; bottom: 10px; left: 0; right: 0;
+}
+table {
+	font-size: 20px;
+}
+tbody {
+	color: blue;
+}
+
+form {
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+h1 {
+    text-align: center;
+    color: red;
+}
+
+html, body {
+	padding: 0;
+	margin: 0;
+}
+body {
+	text-align: center;
+}
